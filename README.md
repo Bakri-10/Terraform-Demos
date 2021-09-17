@@ -6,7 +6,6 @@ Demo Directory | Description
 first-steps | First steps
 demo-1 | First steps: Launching an EC2 instance
 demo-2 | Using provisioner
-demo-2b | Using provisioner on a Windows instance
 demo-3 | Executing script locally
 demo-4 | Outputting
 demo-5 | Data Source
